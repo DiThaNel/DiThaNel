@@ -23,8 +23,8 @@
 
 <br/>
 
-<!-- RETROWAVE NEON PULSE LASER DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- RETROWAVE NEON GRADIENT LASER DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,21,1,0&height=3&section=header" width="100%" />
 
 </div>
 
@@ -124,10 +124,12 @@ Computer Engineer and Front-End Specialist with over 5 years of experience engin
 
 <br/>
 
-<!-- RETROWAVE NEON PULSE LASER DIVIDER -->
+<!-- RETROWAVE NEON GRADIENT LASER DIVIDER -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,21,1,0&height=3&section=header" width="100%" />
 </div>
+
+<br/>
 
 ### Contact & Connect
 
