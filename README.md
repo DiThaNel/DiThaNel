@@ -3,17 +3,25 @@
 <!-- CYBERPUNK DYNAMIC HEADER (OXANIUM FONT) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,21,1,0&height=220&section=header&text=GABRIEL%20GONCALVES&fontSize=42&fontAlignY=36&desc=Computer%20Engineer%20%7C%20Front-End%20Specialist&descAlignY=58&descAlign=50&fontColor=00F0FF&font=Oxanium&animation=twinkling" width="100%" alt="Gabriel Goncalves Header" />
 
+<br/>
+
 <!-- CYBERPUNK TYPING BANNER (OXANIUM FONT) -->
 <a href="https://github.com/DiThaNel">
   <img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=800&size=24&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&multiline=true&width=800&height=90&lines=FRONT-END+ENGINEER+%7C+SCALABLE+WEB+APPS;NEXT.JS+(APP+ROUTER)+%E2%80%A2+TYPESCRIPT+%E2%80%A2+REACT;PIXEL-PERFECT+UI%2FUX+%E2%80%A2+STATE+ARCHITECTURE;TURNING+FIGMA+INTO+DEFENSIVE+PRODUCTION+CODE" alt="Typing SVG" />
 </a>
 
-<!-- CLEAN STATUS BADGES (NO ICONS) -->
+<br/><br/>
+
+<!-- CLEAN STATUS BADGES (NO ICONS, SEPARATED WITH PADDING) -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-SYSTEM_ONLINE-00F0FF?style=for-the-badge" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/LOCATION-PORTO%2C_PORTUGAL-FF007F?style=for-the-badge" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/EXPERIENCE-5%2B_YEARS-7928CA?style=for-the-badge" />
 </p>
+
+<br/>
 
 <!-- RETROWAVE NEON PULSE LASER DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -136,6 +144,7 @@ Computer Engineer and Front-End Specialist with over 5 years of experience engin
 <a href="mailto:gabrielgoncalves4500@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-gabrielgoncalves4500@gmail.com-FF007F?style=for-the-badge" alt="Email" />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gabriel-goncalves-555136149/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F0FF?style=for-the-badge" alt="LinkedIn" />
 </a>
