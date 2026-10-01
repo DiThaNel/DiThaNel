@@ -122,20 +122,6 @@ Computer Engineer and Front-End Specialist with over 5 years of experience engin
 
 ---
 
-### Most Used Languages
-
-<div align="center">
-
-<!-- LIVE ANIMATED TELEMETRY HUD (ORBITRON FONT, INFINITE LOOP) -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=2400&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&width=620&height=140&lines=%5B+SYSTEM+DIAGNOSTIC+%2F%2F+CORE+LANGUAGES+%5D;TypeScript+%E2%96%B6+65.1%25+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D;SCSS+%2B+CSS+%E2%96%B6+30.1%25+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D;JavaScript+%E2%96%B6+4.7%25+%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D" alt="Live Languages Telemetry" />
-
-<br/>
-
-<!-- SYNTHWAVE STATS CARD -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiThaNel&layout=compact&theme=synthwave&hide_border=true&title_color=00F0FF&text_color=FFFFFF&bg_color=180829" width="58%" alt="Top Languages Card" />
-
-</div>
-
 <br/>
 
 <!-- RETROWAVE NEON PULSE LASER DIVIDER -->
@@ -143,7 +129,7 @@ Computer Engineer and Front-End Specialist with over 5 years of experience engin
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
----
+<br/>
 
 ### Contact & Connect
 
