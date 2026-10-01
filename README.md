@@ -1,18 +1,22 @@
 <div align="center">
 
-<!-- RETROWAVE NEON HEADER -->
-<a href="https://github.com/TU_USUARIO">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&multiline=true&width=800&height=100&lines=GABRIEL+GONCALVES;COMPUTER+ENGINEER+%7C+FRONT-END+SPECIALIST;NEXT.JS+%E2%80%A2+TYPESCRIPT+%E2%80%A2+REACT;PIXEL-PERFECT+UI%2FUX+%26+CLEAN+CODE" alt="Gabriel Goncalves Header" />
+<!-- RETROWAVE DYNAMIC CAPSULE HEADER WITH TWINKLING ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,21,1,0&height=220&section=header&text=GABRIEL%20GONCALVES&fontSize=42&fontAlignY=36&desc=Computer%20Engineer%20%7C%20Front-End%20Specialist&descAlignY=58&descAlign=50&fontColor=00F0FF&animation=twinkling" width="100%" alt="Gabriel Goncalves Header" />
+
+<!-- RETROWAVE NEON TYPING BANNER -->
+<a href="https://github.com/DiThaNel">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&multiline=true&width=800&height=90&lines=FRONT-END+ENGINEER+%7C+SCALABLE+WEB+APPS;NEXT.JS+(APP+ROUTER)+%E2%80%A2+TYPESCRIPT+%E2%80%A2+REACT;PIXEL-PERFECT+UI%2FUX+%E2%80%A2+STATE+ARCHITECTURE;TURNING+FIGMA+INTO+DEFENSIVE+PRODUCTION+CODE" alt="Typing SVG" />
 </a>
 
+<!-- ARCADE STATUS BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ROLE-FRONT--END_ENGINEER-00F0FF?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/STATUS-SYSTEM_ONLINE-00F0FF?style=for-the-badge&logo=electron&logoColor=black" />
   <img src="https://img.shields.io/badge/LOCATION-PORTO%2C_PORTUGAL-FF007F?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/EXPERIENCE-5%2B_YEARS-7928CA?style=for-the-badge&logo=codepen&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-FFB800?style=for-the-badge&logo=electron&logoColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=DiThaNel&label=VIEWS&color=ff007f&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- RETROWAVE NEON DIVIDER -->
+<!-- RETROWAVE NEON PULSE LASER DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
@@ -21,10 +25,10 @@
 
 Computer Engineer and **Front-End Specialist with over 5 years of experience** engineering scalable, high-performance web applications and enterprise SaaS platforms.
 
-- 🚀 **Specialized in:** TypeScript, Next.js (App Router), React, and reactive state management (`TanStack Query`, `Zustand`, `Redux`).
+- 🚀 **Specialized in:** TypeScript, Next.js (App Router), React, and reactive state management (`TanStack Query`, `Zustand`, `Redux Toolkit`).
 - 🎨 **Design-to-Code:** Expert at bridging product design (Figma) with pixel-perfect implementation, fluid physics (`Framer Motion`, `@dnd-kit`), and design tokens (`Tailwind CSS`).
 - 🛡️ **Reliability & Testing:** Dedicated to code quality via automated unit testing (`Vitest`, `React Testing Library`), runtime validation (`Zod`), and Edge Middleware security.
-- 🌍 **Languages:** Spanish (Native), English (Professional), Portuguese (Professional).
+- 🌍 **Languages:** Spanish (Native), English (Professional Working), Portuguese (Professional Working).
 - 🎓 **Education:** Computer Engineering (José Antonio Páez University) & Networks & Communication Engineering (Unitec).
 
 ---
@@ -114,13 +118,18 @@ Computer Engineer and **Front-End Specialist with over 5 years of experience** e
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=synthwave&hide_border=true&title_color=FF007F&text_color=FFFFFF&icon_color=00F0FF&bg_color=180829" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=synthwave&hide_border=true&ring=FF007F&fire=00F0FF&currStreakNum=00F0FF&sideNums=FFFFFF&dates=B8B8D0&background=180829" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiThaNel&show_icons=true&theme=synthwave&hide_border=true&title_color=FF007F&text_color=FFFFFF&icon_color=00F0FF&bg_color=180829" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiThaNel&theme=synthwave&hide_border=true&ring=FF007F&fire=00F0FF&currStreakNum=00F0FF&sideNums=FFFFFF&dates=B8B8D0&background=180829" width="48%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=synthwave&hide_border=true&title_color=00F0FF&text_color=FFFFFF&bg_color=180829" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiThaNel&layout=compact&theme=synthwave&hide_border=true&title_color=00F0FF&text_color=FFFFFF&bg_color=180829" width="55%" />
 </p>
+
+<!-- RETROWAVE EQUALIZER ANIMATION -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ---
 
@@ -133,9 +142,6 @@ Computer Engineer and **Front-End Specialist with over 5 years of experience** e
 </a>
 <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
-<a href="https://behance.net/TU_BEHANCE" target="_blank">
-  <img src="https://img.shields.io/badge/BEHANCE-PORTFOLIO-7928CA?style=for-the-badge&logo=behance&logoColor=white" />
 </a>
 
 </div>
