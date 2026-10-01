@@ -1,19 +1,18 @@
 <div align="center">
 
-<!-- RETROWAVE DYNAMIC CAPSULE HEADER WITH TWINKLING ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,21,1,0&height=220&section=header&text=GABRIEL%20GONCALVES&fontSize=42&fontAlignY=36&desc=Computer%20Engineer%20%7C%20Front-End%20Specialist&descAlignY=58&descAlign=50&fontColor=00F0FF&animation=twinkling" width="100%" alt="Gabriel Goncalves Header" />
+<!-- CYBERPUNK DYNAMIC HEADER (OXANIUM FONT) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,21,1,0&height=220&section=header&text=GABRIEL%20GONCALVES&fontSize=42&fontAlignY=36&desc=Computer%20Engineer%20%7C%20Front-End%20Specialist&descAlignY=58&descAlign=50&fontColor=00F0FF&font=Oxanium&animation=twinkling" width="100%" alt="Gabriel Goncalves Header" />
 
-<!-- RETROWAVE NEON TYPING BANNER -->
+<!-- CYBERPUNK TYPING BANNER (OXANIUM FONT) -->
 <a href="https://github.com/DiThaNel">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&multiline=true&width=800&height=90&lines=FRONT-END+ENGINEER+%7C+SCALABLE+WEB+APPS;NEXT.JS+(APP+ROUTER)+%E2%80%A2+TYPESCRIPT+%E2%80%A2+REACT;PIXEL-PERFECT+UI%2FUX+%E2%80%A2+STATE+ARCHITECTURE;TURNING+FIGMA+INTO+DEFENSIVE+PRODUCTION+CODE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=800&size=24&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&multiline=true&width=800&height=90&lines=FRONT-END+ENGINEER+%7C+SCALABLE+WEB+APPS;NEXT.JS+(APP+ROUTER)+%E2%80%A2+TYPESCRIPT+%E2%80%A2+REACT;PIXEL-PERFECT+UI%2FUX+%E2%80%A2+STATE+ARCHITECTURE;TURNING+FIGMA+INTO+DEFENSIVE+PRODUCTION+CODE" alt="Typing SVG" />
 </a>
 
-<!-- ARCADE STATUS BADGES -->
+<!-- CLEAN STATUS BADGES (NO ICONS) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-SYSTEM_ONLINE-00F0FF?style=for-the-badge&logo=electron&logoColor=black" />
-  <img src="https://img.shields.io/badge/LOCATION-PORTO%2C_PORTUGAL-FF007F?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/EXPERIENCE-5%2B_YEARS-7928CA?style=for-the-badge&logo=codepen&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=DiThaNel&label=VIEWS&color=ff007f&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/STATUS-SYSTEM_ONLINE-00F0FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LOCATION-PORTO%2C_PORTUGAL-FF007F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EXPERIENCE-5%2B_YEARS-7928CA?style=for-the-badge" />
 </p>
 
 <!-- RETROWAVE NEON PULSE LASER DIVIDER -->
@@ -21,73 +20,73 @@
 
 </div>
 
-### 👨‍💻 About Me
+### About Me
 
-Computer Engineer and **Front-End Specialist with over 5 years of experience** engineering scalable, high-performance web applications and enterprise SaaS platforms.
+Computer Engineer and Front-End Specialist with over 5 years of experience engineering scalable, high-performance web applications and enterprise SaaS platforms.
 
-- 🚀 **Specialized in:** TypeScript, Next.js (App Router), React, and reactive state management (`TanStack Query`, `Zustand`, `Redux Toolkit`).
-- 🎨 **Design-to-Code:** Expert at bridging product design (Figma) with pixel-perfect implementation, fluid physics (`Framer Motion`, `@dnd-kit`), and design tokens (`Tailwind CSS`).
-- 🛡️ **Reliability & Testing:** Dedicated to code quality via automated unit testing (`Vitest`, `React Testing Library`), runtime validation (`Zod`), and Edge Middleware security.
-- 🌍 **Languages:** Spanish (Native), English (Professional Working), Portuguese (Professional Working).
-- 🎓 **Education:** Computer Engineering (José Antonio Páez University) & Networks & Communication Engineering (Unitec).
+- **Specialized in:** TypeScript, Next.js (App Router), React, and reactive state management (TanStack Query, Zustand, Redux Toolkit).
+- **Design-to-Code:** Expert at bridging product design (Figma) with pixel-perfect implementation, fluid physics (Framer Motion, @dnd-kit), and design tokens (Tailwind CSS).
+- **Reliability & Testing:** Dedicated to code quality via automated unit testing (Vitest, React Testing Library), runtime validation (Zod), and Edge Middleware security.
+- **Languages:** Spanish (Native), English (Professional Working), Portuguese (Professional Working).
+- **Education:** Computer Engineering (José Antonio Páez University) & Networks & Communication Engineering (Unitec).
 
 ---
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 <div align="center">
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages & Core** | <img src="https://img.shields.io/badge/TypeScript-Strict-00F0FF?style=flat-square&logo=typescript&logoColor=black" /> <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-Databases-FF007F?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/PHP_/_WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5_/_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" /> |
-| **Frameworks & State** | <img src="https://img.shields.io/badge/Next.js-App_Router-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-19-00F0FF?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/React_Native-Cross_Platform-00D2FF?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" /> <img src="https://img.shields.io/badge/Zustand-4338CA?style=flat-square" /> <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" /> |
-| **UI/UX & Physics** | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-FF007F?style=flat-square&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/@dnd--kit-Drag_&_Drop-7928CA?style=flat-square" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> |
-| **Testing & Architecture** | <img src="https://img.shields.io/badge/Vitest-FCC72B?style=flat-square&logo=vitest&logoColor=black" /> <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" /> <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-FFB800?style=flat-square" /> <img src="https://img.shields.io/badge/Edge_Middleware-00F0FF?style=flat-square" /> <img src="https://img.shields.io/badge/RBAC_Auth-FF007F?style=flat-square" /> |
+| **Languages & Core** | <img src="https://img.shields.io/badge/TypeScript-Strict-00F0FF?style=flat-square" /> <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square" /> <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square" /> <img src="https://img.shields.io/badge/SQL-Databases-FF007F?style=flat-square" /> <img src="https://img.shields.io/badge/PHP_/_WordPress-Core-21759B?style=flat-square" /> <img src="https://img.shields.io/badge/HTML5_/_CSS3-Standards-E34F26?style=flat-square" /> |
+| **Frameworks & State** | <img src="https://img.shields.io/badge/Next.js-App_Router-000000?style=flat-square" /> <img src="https://img.shields.io/badge/React-19-00F0FF?style=flat-square" /> <img src="https://img.shields.io/badge/React_Native-Cross_Platform-00D2FF?style=flat-square" /> <img src="https://img.shields.io/badge/TanStack_Query-Query-FF4154?style=flat-square" /> <img src="https://img.shields.io/badge/Zustand-State-4338CA?style=flat-square" /> <img src="https://img.shields.io/badge/Redux_Toolkit-Redux-764ABC?style=flat-square" /> |
+| **UI/UX & Physics** | <img src="https://img.shields.io/badge/Tailwind_CSS-Modern-38B2AC?style=flat-square" /> <img src="https://img.shields.io/badge/Framer_Motion-Physics-FF007F?style=flat-square" /> <img src="https://img.shields.io/badge/@dnd--kit-Drag_&_Drop-7928CA?style=flat-square" /> <img src="https://img.shields.io/badge/Figma-Design_Tokens-F24E1E?style=flat-square" /> <img src="https://img.shields.io/badge/Bootstrap-Framework-7952B3?style=flat-square" /> |
+| **Testing & Architecture** | <img src="https://img.shields.io/badge/Vitest-Unit_Testing-FCC72B?style=flat-square" /> <img src="https://img.shields.io/badge/Testing_Library-RTL-E33332?style=flat-square" /> <img src="https://img.shields.io/badge/Zod-Runtime_Validation-3E67B1?style=flat-square" /> <img src="https://img.shields.io/badge/REST_APIs-Architecture-FFB800?style=flat-square" /> <img src="https://img.shields.io/badge/Edge_Middleware-Cloud-00F0FF?style=flat-square" /> <img src="https://img.shields.io/badge/RBAC_Auth-Security-FF007F?style=flat-square" /> |
 
 </div>
 
 ---
 
-### 💻 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔮 NexusPulse — Real-Time Operations Dashboard (2026)</h4>
+      <h4>NexusPulse — Real-Time Operations Dashboard (2026)</h4>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-Router-black?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/TypeScript-Strict-00F0FF?style=flat-square&logo=typescript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-App_Router-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/TypeScript-Strict-00F0FF?style=flat-square" />
         <img src="https://img.shields.io/badge/TanStack-Telemetry-FF007F?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vitest-Tested-FCC72B?style=flat-square&logo=vitest&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vitest-Tested-FCC72B?style=flat-square" />
       </p>
-      <p>Enterprise-grade operational workflow and SaaS dashboard with <strong>real-time telemetry</strong>, role-based access control (<strong>RBAC</strong>), visual automations, and automated Vitest suites.</p>
+      <p>Enterprise-grade operational workflow and SaaS dashboard featuring <strong>real-time telemetry</strong>, strict role-based access control (<strong>RBAC</strong>), visual automations, and resilient Vitest test suites.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🗺️ Enigame — Web & Mobile Exploration App</h4>
+      <h4>Enigame — Web & Mobile Exploration App</h4>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-App-000000?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/React-Interactive-00F0FF?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-App_Router-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-Interactive-00F0FF?style=flat-square" />
         <img src="https://img.shields.io/badge/Zustand-State-7928CA?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwindcss" />
+        <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square" />
       </p>
-      <p>Tourist entertainment platform with themed mystery routes across Bragança & Europe. Features interactive vector maps, live expedition radars, companion tracking, point store redemption, and QR riddle mechanics.</p>
+      <p>Tourist entertainment platform with themed mystery routes across Bragança & Europe. Features interactive vector GPS maps, live expedition radar, companion tracking, point store redemption, and QR riddle mechanics.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🍳 Recipe Card Planner (2026)</h4>
+      <h4>Recipe Card Planner (2026)</h4>
       <p>
-        <img src="https://img.shields.io/badge/React-Redux-764ABC?style=flat-square&logo=redux" />
+        <img src="https://img.shields.io/badge/React-Redux-764ABC?style=flat-square" />
         <img src="https://img.shields.io/badge/@dnd--kit-Drag_&_Drop-FF007F?style=flat-square" />
         <img src="https://img.shields.io/badge/API-Next.js-00F0FF?style=flat-square" />
       </p>
       <p>Dynamic recipe planner application designed to streamline meal scheduling. Users create custom recipe cards and organize them across a weekly calendar using intuitive drag-and-drop physics.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🔍 Card Search & Discovery App (2026)</h4>
+      <h4>Card Search & Discovery App (2026)</h4>
       <p>
-        <img src="https://img.shields.io/badge/React-Tailwind-00F0FF?style=flat-square&logo=tailwindcss&logoColor=black" />
-        <img src="https://img.shields.io/badge/Redux-Toolkit-764ABC?style=flat-square&logo=redux" />
+        <img src="https://img.shields.io/badge/React-Tailwind-00F0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Redux-Toolkit-764ABC?style=flat-square" />
         <img src="https://img.shields.io/badge/REST_API-Integration-FFB800?style=flat-square" />
       </p>
       <p>High-speed character discovery interface fetching RESTful API collections with dynamic search caching, responsive detail pages, and fluid CSS transitions.</p>
@@ -97,7 +96,7 @@ Computer Engineer and **Front-End Specialist with over 5 years of experience** e
 
 ---
 
-### 💼 Work Experience
+### Work Experience
 
 - **Front-End Developer** @ *Arsolut Estudio* `(Feb 2023 – Dec 2025)`
   - End-to-end development of custom themes & plugins for WordPress using React, PHP, Node.js, SQL, and SCSS.
@@ -115,33 +114,30 @@ Computer Engineer and **Front-End Specialist with over 5 years of experience** e
 
 ---
 
-### 📊 GitHub Activity & Stats
+### Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiThaNel&show_icons=true&theme=synthwave&hide_border=true&title_color=FF007F&text_color=FFFFFF&icon_color=00F0FF&bg_color=180829" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiThaNel&theme=synthwave&hide_border=true&ring=FF007F&fire=00F0FF&currStreakNum=00F0FF&sideNums=FFFFFF&dates=B8B8D0&background=180829" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiThaNel&layout=compact&theme=synthwave&hide_border=true&title_color=00F0FF&text_color=FFFFFF&bg_color=180829" width="60%" alt="Top Languages" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiThaNel&layout=compact&theme=synthwave&hide_border=true&title_color=00F0FF&text_color=FFFFFF&bg_color=180829" width="55%" />
-</p>
+<br/>
 
-<!-- RETROWAVE EQUALIZER ANIMATION -->
+<!-- RETROWAVE NEON PULSE LASER DIVIDER -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
 ---
 
-### 📬 Contact & Connect
+### Contact & Connect
 
 <div align="center">
 
 <a href="mailto:gabrielgoncalves4500@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-gabrielgoncalves4500@gmail.com-FF007F?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-gabrielgoncalves4500@gmail.com-FF007F?style=for-the-badge" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+<a href="https://www.linkedin.com/in/gabriel-goncalves-555136149/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F0FF?style=for-the-badge" alt="LinkedIn" />
 </a>
 
 </div>
