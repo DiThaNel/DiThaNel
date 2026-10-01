@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- CYBERPUNK DYNAMIC HEADER (OXANIUM FONT) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,21,1,0&height=220&section=header&text=GABRIEL%20GONCALVES&fontSize=42&fontAlignY=36&desc=Computer%20Engineer%20%7C%20Front-End%20Specialist&descAlignY=58&descAlign=50&fontColor=00F0FF&font=Oxanium&animation=twinkling" width="100%" alt="Gabriel Goncalves Header" />
+<!-- RETROWAVE SYNTHWAVE WAVE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,21,1,0&height=220&section=header&text=GABRIEL%20GONCALVES&fontSize=42&fontAlignY=36&desc=Computer%20Engineer%20%7C%20Front-End%20Specialist&descAlignY=58&descAlign=50&fontColor=00F0FF&animation=twinkling" width="100%" alt="Gabriel Goncalves Header" />
 
 <br/>
 
-<!-- CYBERPUNK TYPING BANNER (OXANIUM FONT) -->
+<!-- CYBERPUNK TYPING BANNER (ORBITRON CYBERPUNK FONT) -->
 <a href="https://github.com/DiThaNel">
-  <img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=800&size=24&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&multiline=true&width=800&height=90&lines=FRONT-END+ENGINEER+%7C+SCALABLE+WEB+APPS;NEXT.JS+(APP+ROUTER)+%E2%80%A2+TYPESCRIPT+%E2%80%A2+REACT;PIXEL-PERFECT+UI%2FUX+%E2%80%A2+STATE+ARCHITECTURE;TURNING+FIGMA+INTO+DEFENSIVE+PRODUCTION+CODE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=23&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=850&height=95&lines=FRONT-END+ENGINEER+%7C+SCALABLE+WEB+APPS;NEXT.JS+(APP+ROUTER)+%E2%80%A2+TYPESCRIPT+%E2%80%A2+REACT;PIXEL-PERFECT+UI%2FUX+%E2%80%A2+STATE+ARCHITECTURE;TURNING+FIGMA+INTO+DEFENSIVE+PRODUCTION+CODE" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- CLEAN STATUS BADGES (NO ICONS, SEPARATED WITH PADDING) -->
+<!-- CLEAN STATUS BADGES (NO ICONS, PROPER BREATHING ROOM) -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-SYSTEM_ONLINE-00F0FF?style=for-the-badge" />
   &nbsp;&nbsp;
@@ -125,7 +125,15 @@ Computer Engineer and Front-End Specialist with over 5 years of experience engin
 ### Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiThaNel&layout=compact&theme=synthwave&hide_border=true&title_color=00F0FF&text_color=FFFFFF&bg_color=180829" width="60%" alt="Top Languages" />
+
+<!-- LIVE ANIMATED TELEMETRY HUD (ORBITRON FONT, INFINITE LOOP) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=2400&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&width=620&height=140&lines=%5B+SYSTEM+DIAGNOSTIC+%2F%2F+CORE+LANGUAGES+%5D;TypeScript+%E2%96%B6+65.1%25+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D;SCSS+%2B+CSS+%E2%96%B6+30.1%25+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D;JavaScript+%E2%96%B6+4.7%25+%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D" alt="Live Languages Telemetry" />
+
+<br/>
+
+<!-- SYNTHWAVE STATS CARD -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiThaNel&layout=compact&theme=synthwave&hide_border=true&title_color=00F0FF&text_color=FFFFFF&bg_color=180829" width="58%" alt="Top Languages Card" />
+
 </div>
 
 <br/>
